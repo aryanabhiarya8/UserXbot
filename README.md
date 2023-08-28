@@ -1,7 +1,7 @@
 <h1 align="center">❤️ 🅆🄰🅁🅄🅂🄴🅁🄱🄾🅃 ❤️</h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/7b3fe6a6a6945ab4d41da.jpg">
+  <img src="https://graph.org/file/1b2c46fbdf497467f539e.jpg">
 </p>
 
   <h2 align= "center" >The owner would not be responsible for any kind of bans due to the bot.</h2>
@@ -41,8 +41,8 @@
 
 ### Official Supports
 
-   <a href="https://t.me/waruserbot"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-   <a href="https://t.me/waruserbotsupport"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/officeal_warrior_fedration"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/officeal_warrior_fedration"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
 
 
 
