@@ -9,8 +9,8 @@ from telethon.sync import TelegramClient
 
 def main():
     print("T E A M    W A R B O T   ! !")
-    print("Hello!! Welcome to WaruserBot Session Generator\n")
-    print("Human Verification Required !!")
+    print("Hello!! Welcome to Official user Bot Session Generator\n")
+    print("Verify you are Human !!")
     while True:
         verify = int(randint(1, 50))
         okvai = int(input(f"Enter {verify} to continue: "))
