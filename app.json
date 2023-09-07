@@ -1,7 +1,7 @@
 {
-  "name": "Official User Bot",
+  "name": "Rocky User Bot",
   "description": "One of the best Userbot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://graph.org/file/1b2c46fbdf497467f539e.jpg",
+  "logo": "https://graph.org/file/8f8f6748e37243b6e93fb.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -11,7 +11,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/rb5785915/waruserbot/",
+  "repository": "https://github.com/rocks143014/official/",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
