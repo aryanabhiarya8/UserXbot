@@ -8,8 +8,8 @@ from telethon.sync import TelegramClient
 
 
 def main():
-    print("T E A M    W A R B O T   ! !")
-    print("Hello!! Welcome to Official user Bot Session Generator\n")
+    print("T E A M    R O C K Y   B O T   ! !")
+    print("Hello!! Welcome to Rocky user Bot Session Generator\n")
     print("Verify you are Human !!")
     while True:
         verify = int(randint(1, 50))
