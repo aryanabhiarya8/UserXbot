@@ -1,7 +1,7 @@
-<h1 align="center">❤️ 🄾🄵🄵🄸🄲🄸🄰🄻 🅄🅂🄴🅁 🄱🄾🅃 ❤️</h1>
+<h1 align="center">❤️ 🅄🅂🄴🅁 🄱🄾🅃 ❤️</h1>
 
 <p align="center">
-  <img src="https://graph.org/file/1b2c46fbdf497467f539e.jpg">
+  <img src="https://graph.org/file/8f8f6748e37243b6e93fb.jpg">
 </p>
 
   <h2 align= "center" >The owner would not be responsible for any kind of bans due to the bot.</h2>
